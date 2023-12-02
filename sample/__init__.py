@@ -1,1 +1,1 @@
-from .core import hmm
+from .JonesCircularPolarizer import hmm
